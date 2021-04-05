@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Nunito",sans-serif;
+    background-color:skyblue
+
+}
+.input{
+    text-align: center;
+    margin: 50px 0px;
+    
+}
+
+input[type="text"]{
+    height: 50px;
+    width: 600px;
+    background: #e7e7e7;
+    font-family: "Nunito",sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    padding: 20px;
+}
+
+input[type="submit"]{
+    height: 50px;
+    width: 100px;
+    background: #e7e7e7;
+    font-family: "Nunito",sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px; 
+}
+
+.display{
+    text-align: center;
+    height: 200px;
+    margin: 0 280px;
+    background: #e7e7e7;
+    font-family: "Nunito",sans-serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px; 
+}
+p{
+    font-family: "Nunito",sans-serif;
+    font-style: italic;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  .image{
+      text-align: center;
+      border-radius: 50%;    
+  }
+  
